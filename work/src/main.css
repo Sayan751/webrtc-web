@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+video {
+  max-width: 100%;
+  width: 320px;
+  /* filter: blur(4px) invert(1) opacity(0.5); */
+  /* filter: hue-rotate(90deg); */
+  /* filter: saturate(700%); */
+  /* filter: grayscale(1000%); */
+  /* filter: sepia(80%); */
+  /* filter: brightness(90%); */
+  /* filter: contrast(400%); */
+  /* filter: drop-shadow(2px 2px 5px red) */
+}
