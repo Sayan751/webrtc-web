@@ -1,4 +1,5 @@
 import './main.css';
+import 'webrtc-adapter';
 
 // this is where to stream the video.
 const videoEl = document.querySelector('video')!;
